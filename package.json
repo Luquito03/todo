@@ -1,6 +1,6 @@
 {
-  "homepage": "https://luquito03.github.io/todo-list",
-  "name": "teste1",
+  "homepage": "https://luquito03.github.io/todo",
+  "name": "todolist",
   "private": true,
   "version": "0.0.0",
   "type": "module",
